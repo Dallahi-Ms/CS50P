@@ -1,2 +1,2 @@
-# CS50P
-Harvard's CS50P problem solutions
+# CS50P Problem Set Solutions 
+This repository contains my solutions to all the CS50P problem sets in Python.
