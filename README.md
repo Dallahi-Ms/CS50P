@@ -24,11 +24,11 @@ The course teaches the fundamentals of programming using Python, covering topics
 - [Meal Time](Problem%20Set%201/meal.py)  
 
 ### [Problem Set 2](https://cs50.harvard.edu/python/2022/weeks/2/)
-- Camel Case  
-- Coke Machine  
-- Just setting up my twttr  
-- Vanity Plates  
-- Nutrition Facts  
+- [Camel Case](Problem%20Set%202/camel.py)  
+- [Coke Machine](Problem%20Set%202/coke.py)
+- [Just setting up my twttr](Problem%20Set%202/twttr.py) 
+- [Vanity Plates](Problem%20Set%202/plates.py)
+- [Nutrition Facts](Problem%20Set%202/nutrition.py) 
 
 ### [Problem Set 3](https://cs50.harvard.edu/python/2022/weeks/3/)
 - Fuel Gauge  
