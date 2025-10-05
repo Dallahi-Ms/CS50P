@@ -11,17 +11,17 @@ The course teaches the fundamentals of programming using Python, covering topics
 
 ### [Problem Set 0](https://cs50.harvard.edu/python/2022/weeks/0/)
 - [Indoor Voice](Problem%20Set%200/indoor.py) 
-- Playback Speed  
-- Making Faces  
-- Einstein  
-- Tip Calculator  
+- [Playback Speed](Problem%20Set%200/playback.py) 
+- [Making Faces](Problem%20Set%200/faces.py)  
+- [Einstein](Problem%20Set%200/einstein.py) 
+- [Tip Calculator](Problem%20Set%200/tip.py)  
 
 ### [Problem Set 1](https://cs50.harvard.edu/python/2022/weeks/1/)
-- Deep Thought  
-- Home Federal Savings Bank  
-- File Extensions  
-- Math Interpreter  
-- Meal Time  
+- [Deep Thought](Problem%20Set%201/deep.py)
+- [Home Federal Savings Bank](Problem%20Set%201/bank.py) 
+- [File Extensions](Problem%20Set%201/extension.py)  
+- [Math Interpreter](Problem%20Set%201/interpreter.py)  
+- [Meal Time](Problem%20Set%201/meal.py)  
 
 ### [Problem Set 2](https://cs50.harvard.edu/python/2022/weeks/2/)
 - Camel Case  
