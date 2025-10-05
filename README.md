@@ -68,6 +68,8 @@ The course teaches the fundamentals of programming using Python, covering topics
 - Cookie Jar  
 - CS50 Shirticate  
 
+### [Problem Set 9](https://cs50.harvard.edu/python/weeks/9/)
+
 ---
 
 ## 🚀 About This Repository
