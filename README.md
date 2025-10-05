@@ -10,7 +10,7 @@ The course teaches the fundamentals of programming using Python, covering topics
 ## 📌 Problem Sets
 
 ### [Problem Set 0](https://cs50.harvard.edu/python/2022/weeks/0/)
-- Indoor Voice  
+- [Indoor Voice](Problem%20Set%200/indoor.py) 
 - Playback Speed  
 - Making Faces  
 - Einstein  
