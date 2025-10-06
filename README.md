@@ -45,23 +45,23 @@ The course teaches the fundamentals of programming using Python, covering topics
 - [Bitcoin Price Index](Problem%20Set%204/bitcoin.py)  
 
 ### [Week 5](https://cs50.harvard.edu/python/2022/weeks/5/)
-- [Testing my twttr](Problem%20Set%205/test_bank)  
-- [Back to the Bank]  
-- [Re-requesting a Vanity Plate]  
-- [Refueling]  
+- [Testing my twttr](Problem%20Set%205/test_twttr)  
+- [Back to the Bank](Problem%20Set%205/test_bank)
+- [Re-requesting a Vanity Plate](Problem%20Set%205/test_plates)
+- [Refueling](Problem%20Set%205/test_fuel) 
 
-### [Problem Set 6](https://cs50.harvard.edu/python/2022/weeks/6/)
-- Lines of Code  
-- Pizza Py  
-- Scourgify  
-- CS50 P-shirt  
+### [Week 6](https://cs50.harvard.edu/python/2022/weeks/6/)
+- [Lines of Code](Problem%20Set%206/lines)  
+- [Pizza Py](Problem%20Set%206/pizza)  
+- [Scourgify](Problem%20Set%206/scourgify)  
+- [CS50 P-shirt](Problem%20Set%206/shirt)  
 
-### [Problem Set 7](https://cs50.harvard.edu/python/2022/weeks/7/)
-- NUMB3RS  
-- Watch on Youtube  
-- Working 9 to 5  
-- Regular, um, Expressions  
-- Response Validation  
+### [Week 7](https://cs50.harvard.edu/python/2022/weeks/7/)
+- [NUMB3RS](Problem%20Set%207/numb3rs)  
+- [Watch on Youtube](Problem%20Set%207/watch.py) 
+- [Working 9 to 5](Problem%20Set%207/working)  
+- [Regular, um, Expressions](Problem%20Set%207/um)  
+- [Response Validation](Problem%20Set%207/response.py)
 
 ### [Problem Set 8](https://cs50.harvard.edu/python/2022/weeks/8/)
 - Seasons of Love  
