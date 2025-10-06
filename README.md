@@ -63,12 +63,12 @@ The course teaches the fundamentals of programming using Python, covering topics
 - [Regular, um, Expressions](Problem%20Set%207/um)  
 - [Response Validation](Problem%20Set%207/response.py)
 
-### [Problem Set 8](https://cs50.harvard.edu/python/2022/weeks/8/)
-- Seasons of Love  
-- Cookie Jar  
-- CS50 Shirticate  
+### [Week 8](https://cs50.harvard.edu/python/2022/weeks/8/)
+- [Seasons of Love](Problem%20Set%208/seasons)  
+- [Cookie Jar](Problem%20Set%208/jar) 
+- [CS50 Shirticate](Problem%20Set%208/shirtificate) 
 
-### [Problem Set 9](https://cs50.harvard.edu/python/weeks/9/)
+### [Week 9](https://cs50.harvard.edu/python/weeks/9/)
 
 ---
 
