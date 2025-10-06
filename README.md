@@ -9,46 +9,46 @@ The course teaches the fundamentals of programming using Python, covering topics
 
 ## 📌 Problem Sets
 
-### [Problem Set 0](https://cs50.harvard.edu/python/2022/weeks/0/)
+### [Week 0](https://cs50.harvard.edu/python/2022/weeks/0/)
 - [Indoor Voice](Problem%20Set%200/indoor.py) 
 - [Playback Speed](Problem%20Set%200/playback.py) 
 - [Making Faces](Problem%20Set%200/faces.py)  
 - [Einstein](Problem%20Set%200/einstein.py) 
 - [Tip Calculator](Problem%20Set%200/tip.py)  
 
-### [Problem Set 1](https://cs50.harvard.edu/python/2022/weeks/1/)
+### [Week 1](https://cs50.harvard.edu/python/2022/weeks/1/)
 - [Deep Thought](Problem%20Set%201/deep.py)
 - [Home Federal Savings Bank](Problem%20Set%201/bank.py) 
 - [File Extensions](Problem%20Set%201/extension.py)  
 - [Math Interpreter](Problem%20Set%201/interpreter.py)  
 - [Meal Time](Problem%20Set%201/meal.py)  
 
-### [Problem Set 2](https://cs50.harvard.edu/python/2022/weeks/2/)
+### [Week 2](https://cs50.harvard.edu/python/2022/weeks/2/)
 - [Camel Case](Problem%20Set%202/camel.py)  
 - [Coke Machine](Problem%20Set%202/coke.py)
 - [Just setting up my twttr](Problem%20Set%202/twttr.py) 
 - [Vanity Plates](Problem%20Set%202/plates.py)
 - [Nutrition Facts](Problem%20Set%202/nutrition.py) 
 
-### [Problem Set 3](https://cs50.harvard.edu/python/2022/weeks/3/)
-- Fuel Gauge  
-- Felipe's Taqueria  
-- Grocery List  
-- Outdated  
+### [Week 3](https://cs50.harvard.edu/python/2022/weeks/3/)
+- [Fuel Gauge](Problem%20Set%203/fuel.py)  
+- [Felipe's Taqueria](Problem%20Set%203/taueria.py) 
+- [Grocery List](Problem%20Set%203/grocery.py)
+- [Outdated](Problem%20Set%203/outdated.py) 
 
-### [Problem Set 4](https://cs50.harvard.edu/python/2022/weeks/4/)
-- Emojize  
-- Frank, Ian and Glen's Letters  
-- Adieu, Adieu  
-- Guessing Game  
-- Little Professor  
-- Bitcoin Price Index  
+### [Week 4](https://cs50.harvard.edu/python/2022/weeks/4/)
+- [Emojize](Problem%20Set%204/emojize.py)  
+- [Frank, Ian and Glen's Letters](Problem%20Set%204/figlet.py)
+- [Adieu, Adieu](Problem%20Set%204/adieu.py)
+- [Guessing Game](Problem%20Set%204/game.py) 
+- [Little Professor](Problem%20Set%204/professor.py)  
+- [Bitcoin Price Index](Problem%20Set%204/bitcoin.py)  
 
-### [Problem Set 5](https://cs50.harvard.edu/python/2022/weeks/5/)
-- Testing my twttr  
-- Back to the Bank  
-- Re-requesting a Vanity Plate  
-- Refueling  
+### [Week 5](https://cs50.harvard.edu/python/2022/weeks/5/)
+- [Testing my twttr](Problem%20Set%205/test_bank)  
+- [Back to the Bank]  
+- [Re-requesting a Vanity Plate]  
+- [Refueling]  
 
 ### [Problem Set 6](https://cs50.harvard.edu/python/2022/weeks/6/)
 - Lines of Code  
